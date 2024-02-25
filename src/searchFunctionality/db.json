@@ -1,0 +1,48 @@
+{
+    "fruits": [
+        {
+            "id": 0,
+            "name": "lengra mango",
+            "type": "mango",
+            "price": "150",
+            "importedFrom": "Rajshahie"
+        },
+        {
+            "id": 1,
+            "name": "Hargibanga mango",
+            "type": "mango",
+            "price": "200",
+            "importedFrom": "Rajshahie"
+        },
+        {
+            "id": 2,
+            "name": "Amrupali mango",
+            "type": "mango",
+            "price": "180",
+            "importedFrom": "Rajshahie"
+        }
+    ],
+    "vagetables": [
+        {
+            "id": 0,
+            "name": "Egg Plant",
+            "type": "vagetables",
+            "price": "40",
+            "importedFrom": "dinajpur"
+        },
+        {
+            "id": 1,
+            "name": "bottle guard",
+            "type": "vagetables",
+            "price": "50",
+            "importedFrom": "dinajpur"
+        },
+        {
+            "id": 2,
+            "name": "bit root",
+            "type": "vagetables",
+            "price": "80",
+            "importedFrom": "rangpur"
+        }
+    ]
+}
